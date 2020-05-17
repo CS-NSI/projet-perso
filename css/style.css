@@ -1,0 +1,189 @@
+@font-face {
+    font-family: 'Stabillo Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Stabillo Medium'), url('fonts/Stabillo Medium.woff') format('woff');
+    }
+
+    /* main */
+
+body, html{
+    padding: 0;
+    margin: 0;
+}
+
+
+a, h1, h2, h3, h4, h5, h6, span{
+    font-family: 'Stabillo Medium';
+    text-decoration: none;
+}
+
+.colorb{
+    background-color: white;
+    height: 37em;
+}
+
+    /* header */
+
+
+.header{
+    width: 100%;
+    background-color: white;
+    height: 120px;
+    line-height: 120px;
+    margin: 0 auto;
+    -webkit-box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+    -moz-box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+    box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+}
+
+.logo{
+    width: 13%;
+    vertical-align: middle;
+    padding-top: 0px;
+    padding-left: 70px;
+}
+
+
+.menu{
+    float: right;
+    padding-right: 120px;
+
+}
+
+.link{
+    color: black;
+    font-size: 45px;
+    vertical-align: middle;
+    padding: 45px;
+    transition-duration: 0.5s;
+}
+
+.link:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+
+
+     /* banner */
+
+.banner{
+    background-color: #34347c;
+    height: 350px;
+}
+
+.bannerlogo{
+    width: 350px;
+}
+
+.bannertext{
+    color: #f7f7f7;
+    text-decoration: underline;
+    text-shadow:0 4px 0 black, 0 -4px 0 black, 4px 0 0 black, -4px 0 0 black;
+    font-family: "Stabillo Medium";
+    font-size: 1em;
+    margin-top: -335px;
+    padding-left: 12em;
+}
+
+.particle{
+    margin-top: -363px;
+    padding-left: 300px;
+    opacity: 20%;
+    width: 123%;
+}
+
+    /* body */
+
+.title{
+    font-size: 70px;
+    text-decoration: underline;
+    vertical-align: middle;
+    padding-left: 400px;
+}
+
+.carousel-inner{
+    padding-left: 12em;
+} 
+    
+.carousel-caption{
+    padding-right: 12em;
+}
+
+span.carousel-control-prev-icon{
+    background-color: black;
+    -webkit-box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+    -moz-box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+    box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+}
+
+span.carousel-control-next-icon{
+    background-color: black;
+    -webkit-box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+    -moz-box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+    box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+}
+    
+    /* footer */
+
+.footer{
+    height: 10em;
+    background-color: #34347c;
+}
+    
+.title2{
+    color: white;
+    text-decoration: underline;
+    padding-left: 57.2em;
+    padding-top: 1em;
+}
+    
+.imgcb{
+    width: 16%;
+    float: right;
+    padding-right: 3em;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     /* -webkit-box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+    -moz-box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);
+    box-shadow: 3px 4px 5px 3px rgba(0,0,0,0.32);   */
